@@ -1,6 +1,6 @@
 # Europeana maintenance page
 
-Use the [Cloud Foundry Static Buildpack](https://github.com/cloudfoundry/staticfile-buildpack)
+Use the [Cloud Foundry NGINX Buildpack](https://docs.cloudfoundry.org/buildpacks/nginx/)
 to show a maintenance page for a Europeana website.
 
 ## License
