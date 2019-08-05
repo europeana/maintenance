@@ -1,4 +1,4 @@
 ---
 memory: 64M
-buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git#v1.4.43
+buildpack: https://github.com/cloudfoundry/nginx-buildpack.git#v1.0.15
 stack: cflinuxfs3
